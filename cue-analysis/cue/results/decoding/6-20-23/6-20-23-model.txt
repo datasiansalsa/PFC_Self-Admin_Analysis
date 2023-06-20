@@ -1,0 +1,15 @@
+Decoding: Neuron
+Variable of interest: Cue
+Num-clusters: 4
+Num-shuffles: 1
+Baseline epoch: [0, -1]
+Response epoch: [0, -1]
+
+
+MODEL INFO
+Space: {'kernel': ['rbf'], 'gamma': [0.01, 0.1, 1.0, 10.0, 100.0], 'C': [0.01, 0.1, 1.0, 10.0, 100.0]}
+Classifier: SVC()
+Cross-validation: 2
+Standardization: StandardScaler()
+Test size: 0.2
+Num-iterations: 10
