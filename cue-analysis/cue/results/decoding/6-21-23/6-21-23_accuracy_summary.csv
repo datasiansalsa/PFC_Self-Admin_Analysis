@@ -1,0 +1,5 @@
+,Group,Unshuffle Average,Shuffle Average,Unshuffle Max,Shuffle Max,Unshuffle Min,Shuffle Min
+0,Early,84.4%,62.4%,100%,100%,33.3%,33.3%
+1,Middle,82.3%,74%,100%,92.7%,57.7%,57.7%
+2,Late,81.8%,72.3%,100%,91.4%,52%,52%
+3,CueRein,86.4%,67.3%,100%,88.9%,53.5%,43.8%
